@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shetteemah
-- 👀 I’m interested in back end/blockchain
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on dAPPS
+- 👀 I’m interested in C/blockchain
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on C projects
 - 📫 How to reach me shettimaali58@yahoo.com
 
 <!---
