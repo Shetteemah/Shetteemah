@@ -8,6 +8,3 @@
 Shetteemah/Shetteemah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Organizations**
-![42](https://simpleicons.org/icons/42.svg)
-![42](https://simpleicons.org/icons/42.svg/badge/42-white?style=for-the-badge&logo=42logo&logoColor=black)
