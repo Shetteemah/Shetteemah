@@ -11,6 +11,9 @@
 
 <h3>AFFILIATIONS:</h3>
 <img src="https://simpleicons.org/icons/42.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+<img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+<img src="https://simpleicons.org/icons/amazonaws.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+
 
 <h3>STATS:</h3>
 
