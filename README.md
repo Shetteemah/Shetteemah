@@ -1,6 +1,6 @@
 <h3>ABOUT:</h3>
 
-| [![Shettima Ali](https://img.shields.io/badge/DIRAM-BORA-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=shetteemah&color=green) | ![Followers](https://img.shields.io/github/followers/shetteemah) | ![Stars](https://img.shields.io/github/stars/shetteemah?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Shettima Ali](https://img.shields.io/badge/SHETTIMA-ALI-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=shetteemah&color=green) | ![Followers](https://img.shields.io/github/followers/shetteemah) | ![Stars](https://img.shields.io/github/stars/shetteemah?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 <ul>
@@ -13,7 +13,7 @@
 
 
 <h3>AFFILIATIONS:</h3>
-<p><img src="https://simpleicons.org/icons/42.svg" &theme=light alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
+<p><img src="https://simpleicons.org/icons/42.svg" &theme=radical alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
 <img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
 <img src="https://simpleicons.org/icons/amazonaws.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom"></p>
 
