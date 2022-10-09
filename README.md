@@ -13,7 +13,7 @@
 
 
 <h3>AFFILIATIONS:</h3>
-<p><img src="https://simpleicons.org/icons/42.svg" hide_border="false" theme="light" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
+<p><img src="https://simpleicons.org/icons/42.svg" color="cyan" theme="light" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
 <img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
 <img src="https://simpleicons.org/icons/amazonaws.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom"></p>
 
