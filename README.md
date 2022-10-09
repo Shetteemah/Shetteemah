@@ -2,7 +2,7 @@
 
 <ul>
 <li> 👋 Hi, I’m @Shetteemah</li>
-<li> 👀 I’m interested in C/blockchain</li>
+<li> 👀 I’m interested in software engineering</li>
 <li> 🌱 I’m currently learning C</li>
 <li> 💞️ I’m looking to collaborate on C projects</li>
 <li> 📫 How to reach me shettimaali58@yahoo.com</li>
