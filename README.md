@@ -26,7 +26,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shetteemah&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shetteemah&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shetteemah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Shetteemah/Shetteemah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
