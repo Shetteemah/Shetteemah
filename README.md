@@ -30,11 +30,11 @@
 
 ### I Know
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,linkedin,html,css,github,git,aws,figma,xd,ps,pr,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,react,js,bash,vim,vscode,linkedin,html,css,github,git,aws,figma,xd,ps,pr,matlab)](https://skillicons.dev)
 
 ### I Want to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,swift,flutter,react,js,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,swift,flutter,docker)](https://skillicons.dev)
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=shetteemah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
