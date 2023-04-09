@@ -3,20 +3,21 @@
 | [![Shettima Ali](https://img.shields.io/badge/SHETTIMA-ALI-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=shetteemah&color=green) | ![Followers](https://img.shields.io/github/followers/shetteemah) | ![Stars](https://img.shields.io/github/stars/shetteemah?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
-<ul>
+<!-- <ul>
 <li> 👋 Hi, I’m @Shetteemah</li>
 <li> 👀 I’m interested in software engineering</li>
 <li> 🌱 I’m currently learning C</li>
 <li> 💞️ I’m looking to collaborate on C projects</li>
 <li> 📫 How to reach me shettimaali58@yahoo.com</li>
 </ul>
+-->
 
 
 ### AFFILIATIONS:
 <p>
 <img src="https://simpleicons.org/icons/42.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
-<img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
-<img src="https://simpleicons.org/icons/amazonaws.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">
+<!-- <img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom">&emsp;
+<img src="https://simpleicons.org/icons/amazonaws.svg" alt="Smiley face" width="42" height="42" style="vertical-align:bottom"> -->
 </p>
 
 
@@ -30,11 +31,11 @@
 
 ### I Know
 
-[![My Skills](https://skillicons.dev/icons?i=c,react,js,bash,vim,vscode,linkedin,html,css,github,git,aws,figma,xd,ps,pr,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,react,js,bash,vim,vscode,html,css,github,git,figma,xd,ps,pr,matlab)](https://skillicons.dev)
 
 ### I Want to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,swift,flutter,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,vuejs,nextjs,swift,flutter,docker)](https://skillicons.dev)
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=shetteemah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
