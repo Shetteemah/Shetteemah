@@ -3,17 +3,18 @@
 | [![Shettima Ali](https://img.shields.io/badge/SHETTIMA-ALI-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=shetteemah&color=green) | ![Followers](https://img.shields.io/github/followers/shetteemah) | ![Stars](https://img.shields.io/github/stars/shetteemah?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 [![](https://visitcount.itsvg.in/api?id=Shetteemah&icon=0&color=0)](https://visitcount.itsvg.in)|
 
-<!-- <ul>
+<ul>
 <li> 👋 Hi, I’m @Shetteemah</li>
-<li> 👀 I’m interested in software engineering</li>
-<li> 🌱 I’m currently learning C</li>
-<li> 💞️ I’m looking to collaborate on C projects</li>
-<li> 📫 How to reach me shettimaali58@yahoo.com</li>
+<li> 👀 I’m interested in frontend engineering</li>
+<li> 🌱 I’m currently improving my C, C++ and JavaScript skills</li>
+<li> 💞️ I’m looking to collaborate on frontend projects</li>
+<li> 📫 How to reach me, on any of my socials</li>
 </ul>
--->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shetteemah/) 
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shetteemah/)
+[![Twitter](https://img.shields.io/twitter/follow/Shetteemah?style=social)](https://twitter.com/Shetteemah)
 
 
 ## Skills
@@ -48,11 +49,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shetteemah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shetteemah&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=shetteemah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shetteemah&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
 <!---
 Shetteemah/Shetteemah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
