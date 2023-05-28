@@ -21,11 +21,11 @@
 
 ### I Know
 
-[![My Skills](https://skillicons.dev/icons?i=c,react,js,bash,vim,vscode,html,css,github,git,figma,xd,ps,pr,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,react,js,bash,vim,vscode,html,css,github,git,figma,xd,ps,pr,matlab)](https://skillicons.dev)
 
 ### I Want to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,vuejs,nextjs,swift,flutter,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nextjs,swift,flutter,docker)](https://skillicons.dev)
 
 ### AFFILIATIONS:
 <p>
